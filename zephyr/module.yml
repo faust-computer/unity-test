@@ -1,0 +1,4 @@
+name: unitytest
+build:
+  cmake: .
+  kconfig: zephyr/Kconfig.unitytest
